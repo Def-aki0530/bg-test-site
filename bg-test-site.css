@@ -18,7 +18,11 @@ html{
     width: 98%;
     margin: 0 1%;
     margin-top:10px;
-    /*border-radius: 30px;*/
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    border-radius: 30px;
     background: url("img/unsplash-index-top.jpg");
     background-position: center;
     background-repeat: no-repeat;
