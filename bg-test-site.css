@@ -21,11 +21,11 @@ html{
     margin-top:10px;
     border-radius: 30px;
     background: url("img/unsplash-index-top.jpg");
-    background-position: center;
+    /*background-position: center;*/
     background-repeat: no-repeat;
-    /*-webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    background-size: cover;*/
+    background-size: cover;
   }
